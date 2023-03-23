@@ -2,10 +2,6 @@
 	File		: MSegitiga.java
 	Penulis		: Labiba Adinda Zahwana - 24060121140111
 	Deskripsi	: Kelas yang berisi program untuk menjalankan kelas operasi segitiga.
-*//*
-	File		: MSegitiga.java
-	Penulis		: Labiba Adinda Zahwana - 24060121140111
-	Deskripsi	: Kelas yang berisi program untuk menjalankan kelas operasi segitiga.
 */
 
 package org.main;
