@@ -1,9 +1,9 @@
 /*
 	Nama  File	: BujurSangkar.java
 	Pembuat	  	: Labiba Adinda Zahwana
-	NIM		    	: 24060121140111
-	Tanggal		  : Rabu, 9 Mei 2023
-	Deskripsi	  : Bujur Sangkar
+	NIM		: 24060121140111
+	Tanggal		: Selasa, 9 Mei 2023
+	Deskripsi	: Bujur Sangkar
 */
  
  public class BujurSangkar extends BangunDatar{
