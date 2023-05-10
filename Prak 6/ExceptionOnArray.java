@@ -2,7 +2,7 @@
 	Nama  File	: ExceptionOnArray.java
 	Pembuat		  : Labiba Adinda Zahwana
 	NIM			    : 24060121140111
-	Tanggal	   	: Rabu, 09 Mei 2023
+	Tanggal	   	: Selasa, 09 Mei 2023
 	Deskripsi	  : Program penggunaan eksepsi menggunakan class library pada Java
 */
  
