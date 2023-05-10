@@ -2,7 +2,7 @@
 	Nama  File	: BangunDatar.java
 	Pembuat		: Labiba Adinda Zahwana
 	NIM	        : 24060121140111
-	Tanggal		: Rabu, 9 Mei 2023
+	Tanggal		: Selasa, 9 Mei 2023
 	Deskripsi	: Abstrak Bangun Datar
 */
  
