@@ -1,7 +1,7 @@
 /*
 	Nama  File	: AngkaSial.java
 	Pembuat	   	: Labiba Adinda Zahwana
-	NIM		    	: 24060121140103
+	NIM		    	: 24060121140111
 	Tanggal		  : Selasa, 09 Mei 2023
 	Deskripsi	: Program penggunaan exception buatan sendiri pengenalan klausa 'throw' dan 'throws'
 */
