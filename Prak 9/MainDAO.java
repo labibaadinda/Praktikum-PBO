@@ -1,7 +1,7 @@
 /*
 	Nama  File	: MainDAO.java
-	Pembuat		: Muhamad Ridwan Ash'shidqi
-	NIM			: 24060121130075
+	Pembuat		: Labiba Adinda Zahwana
+	NIM		: 24060121140111
 	Tanggal		: Sabtu, 10 Juni 2023
 	Deskripsi	: Main program untuk mengakses DAO
 */
